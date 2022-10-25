@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "course_name": "Algorithm",
+        "thumbnail_img": "https://www.investopedia.com/thmb/s56ubR5UguDpmw4xitrCznhYbp4=/735x0/algorithm-8507b849b8ee48e5887fda56916dd037.png",
+        "description": "In Computer Science, an algorithm is a list set of instructions, used to solve problems or perform tasks, based on the understanding of available alternatives. Algorithms are more than just programming, they are specifications for performing calculations, data processing, automated reasoning or decision making for example (non-exhaustive list). To this extent, it is necessary to understand what it means for an algorithm to be correct, and to accurately solve the problem at hand.The development and analysis of algorithms is fundamental to all aspects of computer science: artificial intelligence, databases, graphics, networking, operating systems, security, and so on. Algorithm development is more than just programming. It requires an understanding of the alternatives available for solving a computational problem, including the hardware, networking, programming language, and performance constraints that accompany any particular solution. It also requires understanding what it means for an algorithm to be “correct” in the sense that it fully and efficiently solves the problem at hand.",
+        "total_student": 450,
+        "ratings": 4.5
+    },
+    {
+        "id": 2,
+        "course_name": "Data Structure",
+        "thumbnail_img": "https://msatechnosoft.in/blog/wp-content/uploads/2018/09/Data-Structure-tutorial-MSA-Technosoft.jpg",
+        "description": "As the name indicates, Data Structure is used for organizing the data in memory. There are various ways of organizing the data in the memory, for eg. array, list, stack, queue, and many more. The data structure isn't a programming language like C, C++, Java, etc. It is a set of algorithms that can be used in any programming language to organize the data in the memory. Data structure and algorithms are two of the most important aspects of computer science. Data structures allow us to organize and store data, while algorithms allow us to process that data in a meaningful way. Learning data structure and algorithms will help you become a better programmer. You will be able to write code that is more efficient and more reliable. You will also be able to solve problems more quickly and more effectively.As applications are becoming more complex and the amount of data is increasing day by day, which may cause problems with processing speed, searching data, handling multiple requests etc. Data structure provides a way of organizing, managing, and storing data efficiently. With the help of data structure, the data items can be traversed easily.",
+        "total_student": 430,
+        "ratings": 4.2
+    },
+    {
+        "id": 3,
+        "course_name": "Database Systems",
+        "thumbnail_img": "https://www.mycslab.in/wp-content/uploads/2020/01/database-management-system.jpg",
+        "description": "Database systems provide an environment for storage and retrieval of both structured and semi-structured data.Such systems were originally designed for use in business-type applications. Today, however, they are being utilized in many other application domains, including scientific computing, networking, and bio-informatics. The software which is used to manage databases is called Database Management System (DBMS). For Example, MySQL, Oracle, etc. are popular commercial DBMS used in different applications.  File System manages data using files on a hard disk. Users are allowed to create, delete, and update the files according to their requirements. Let us consider the example of file-based University Management System. Data of students is available to their respective Departments, Academics Section, Result Section, Accounts Section, Hostel Office, etc. Some of the data is common for all sections like Roll No, Name, Father Name, Address, and Phone number of students but some data is available to a particular section only like Hostel allotment number which is a part of the hostel office.",
+        "total_student": 470,
+        "ratings": 4.0
+    },
+    {
+        "id": 4,
+        "course_name": "C++",
+        "thumbnail_img": "https://gteconlinelearning.com/wp-content/uploads/2020/05/C.jpg",
+        "description": "C++ is a programming language developed by Bjarne Stroustrup in 1979 at Bell Labs. C++ is regarded as a middle-level language, as it comprises a combination of both high-level and low-level language features. It is a superset of C, and that virtually any legal C program is a legal C++ program. C++ runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX. It was designed with a bias toward system programming and embedded, resource-constrained and large systems, with performance, efficiency and flexibility of use as its design highlights. It has been used in the development of software infrastructure and resource-constrained applications, including desktop applications, servers (e.g. e-commerce, web search or SQL servers), and performance-critical applications (e.g. telephone switches or space probes). C++ was designed as a successor to C and was a new language that introduced many concepts in Computer Science. C++ introduced the concept of templates for generic programming. It also introduced RAI(Resource allocation is initialization) and deterministic destructors which help in better memory management. C++ introduced the concept of user overloadable operators making user-defined types in C++ seem like built-in types. It also supports multiple inheritances that help in modeling complex real life constructs. Finally, C++ is a very structured language close to the machine and is used for various tasks in which you need raw performance. It has been used to implement various applications which would simply be too slow or unmaintainable if built with other languages.",
+        "total_student": 400,
+        "ratings": 3.5
+    },
+    {
+        "id": 5,
+        "course_name": "Java",
+        "thumbnail_img": "https://www.classcentral.com/report/wp-content/uploads/2022/05/Java-BCG-Banner.png",
+        "description": " This is a course in Java programming for beginners. It covers the fundamentals of programming, roughly the same material that is covered in a beginning programming course in a university or in a high school AP Computer Science course. Java is a computer programming language. It enables programmers to write computer instructions using English-based commands instead of having to write in numeric codes. It's known as a high-level language because it can be read and written easily by humans. Like English, Java has a set of rules that determine how the instructions are written. These rules are known as its syntax. Once a program has been written, the high-level instructions are translated into numeric codes that computers can understand and execute. In the early 90s, Java, which originally went by the name Oak and then Green, was created by a team led by James Gosling for Sun Microsystems, a company now owned by Oracle. Java was originally designed for use on digital mobile devices, such as cellphones. However, when Java 1.0 was released to the public in 1996, its main focus had shifted to use on the internet, providing interactivity with users by giving developers a way to produce animated web pages.",
+        "total_student": 480,
+        "ratings": 5
+    },
+    {
+        "id": 6,
+        "course_name": "Artificial Intelligence",
+        "thumbnail_img": "https://miro.medium.com/max/786/0*R85PRdnfHI9eppdu.jpg",
+        "description": "The Artificial Intelligence with Computer Science degree will enable you to provide solutions to real-world problems that require the acquisition and representation of information, knowledge and intelligence within computerised processes, which form the basis for intelligent computer systems powered by Artificial Intelligence. Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving. The ideal characteristic of artificial intelligence is its ability to rationalize and take actions that have the best chance of achieving a specific goal. A subset of artificial intelligence is machine learning (ML), which refers to the concept that computer programs can automatically learn from and adapt to new data without being assisted by humans. Deep learning techniques enable this automatic learning through the absorption of huge amounts of unstructured data such as text, images, or video. Artificial intelligence is based on the principle that human intelligence can be defined in a way that a machine can easily mimic it and execute tasks, from the most simple to those that are even more complex. The goals of artificial intelligence include mimicking human cognitive activity. Researchers and developers in the field are making surprisingly rapid strides in mimicking activities such as learning, reasoning, and perception, to the extent that these can be concretely defined. Some believe that innovators may soon be able to develop systems that exceed the capacity of humans to learn or reason out any subject. But others remain skeptical because all cognitive activity is laced with value judgments that are subject to human experience.",
+        "total_student": 500,
+        "ratings": 4.7
+    }
+]
